@@ -38,7 +38,7 @@ The core functionalities of this project include:
 1. **Clone the Repository**:
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/Harshkamdar67/SarvamAI-cryptoagent-assignment.git
    cd <repository-folder>
    ```
 2. **Create a Virtual Environment**:
