@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an AI agent built for the Sarvam.ai assignment. It integrates the Together AI API and an external cryptocurrency pricing API to create an interactive conversational agent that can provide real-time crypto prices and handle language translation requests, while maintaining a consistent communication flow in English.
+This project is an AI agent, It integrates the Together AI API and an external cryptocurrency pricing API to create an interactive conversational agent that can provide real-time crypto prices and handle language translation requests, while maintaining a consistent communication flow in English.
 
 The core functionalities of this project include:
 
